@@ -4,7 +4,7 @@ import streamlit as st
 st.title("GEN-AI CHATBOT")
 
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="#your open ai key#")
 
 if "openai_model" not in st.session_state:
     st.session_state["openai_model"] = "gpt-3.5-turbo"
