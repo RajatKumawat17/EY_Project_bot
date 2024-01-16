@@ -1,0 +1,10 @@
+streamlit
+replicate
+openai
+pandas
+folium
+pickle
+streamlit-authenticator
+streamlit-extra
+streamlit-card
+streamlit-folium
