@@ -2,6 +2,8 @@ run the following commands to run the app
 
 1. pip install -r requirements.py
 
-2. streamlit run homepage.py
+2. put your open ai key in chatbot.py file
+
+3. streamlit run homepage.py
 (install any missing packages)
 
